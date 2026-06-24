@@ -1,0 +1,6 @@
+{
+  "name": "EduHub ERP",
+  "description": "A comprehensive SaaS School ERP system designed for administrators, teachers, and students to manage classes, attendance, grades, assignments, and fees with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
